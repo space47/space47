@@ -84,7 +84,7 @@
 
 -->
 
-## Internship Experience 
+## Work Experience 
 * Fynd
 Software Developer Engineer  | January 2023 - June 2023
 
